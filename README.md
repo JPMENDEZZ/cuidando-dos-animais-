@@ -8,5 +8,5 @@
 <a href="https://jpmendezz.github.io/cuidando-dos-animais-/"><img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/6b654b40-091e-47ee-b806-997c631037d3" width="80px"></a>
 <br><br>
 <h2>Demonstração do projeto! 👇</h2>
-<img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/29c53cf9-e943-4a1a-93da-595c41ed2c44">
+<img src="https://github.com/JPMENDEZZ/Easy-Shopping/assets/124535140/0ba988a2-1cbe-497a-833b-dcc4fa953eec">
 <hr>
